@@ -1,0 +1,8 @@
+.env
+/node_modules
+/log
+/package-lock.json
+/.vscode/
+/downloads
+/ig
+/ids.txt
